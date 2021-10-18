@@ -1,2 +1,2 @@
-# THE-GÖDEL-PROTOCOL
-The only security system in mathematics is a vault, inside a vault, inside a vault.
+# THE GÖDEL PROTOCOL
+The only truly secure system in the entire embodiment of mathematics.
